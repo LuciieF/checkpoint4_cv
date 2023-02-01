@@ -28,18 +28,16 @@ code {
 }
 
 .App-header {
-  background-color: #282c34;
-  min-height: 100vh;
-  display: flex;
-  flex-direction: column;
-  align-items: center;
-  justify-content: center;
-  font-size: calc(10px + 2vmin);
-  color: white;
+  background-color: rgb(250, 212, 219);
+  overflow: hidden;
+  position: fixed;
+  bottom: 0;
+  width: 100%;
+  height: 50px;
 }
 
 .App-link {
-  color: #61dafb;
+  color: palevioletred;
 }
 
 @keyframes App-logo-spin {

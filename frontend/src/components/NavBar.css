@@ -1,0 +1,13 @@
+.button {
+  display: flex;
+  background-color: transparent;
+  border-width: 0;
+  border: 0;
+  color: palevioletred;
+  font-size: 3rem;
+}
+
+.navbar {
+  display: flex;
+  justify-content: space-around;
+}
